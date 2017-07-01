@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("HackAtHome.Entities.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("HackAtHome.SAL.Resource", IsApplication=false)]
 
-namespace HackAtHome.Entities
+namespace HackAtHome.SAL
 {
 	
 	

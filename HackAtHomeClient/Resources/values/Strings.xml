@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">Hack@Home</string>
+
+  <!-- Main activity: -->
+  <string name="Email">Correo:</string>
+  <string name="Password">Contraseña:</string>
+  <string name="Validate">Validar</string>
+  <string name="ResultDialogTitle">Resultado de la verificación</string>
+  <string name="Error0">Hubo un error al iniciar sesión, verifica tus credenciales y tu conexión e inténtalo de nuevo.</string>
+
+  <!-- Evidences activity: -->  
+  <string name="EvidencesTitle">Evidencias</string>
+
+  <!-- EvidenceDetail activity: -->
+  <string name="EvidenceDescription">Descripción:</string>
+
+</resources>
